@@ -8,13 +8,7 @@
 /docs
  ```
  There is also a Postman collection under the postman folder
-
-
-
-### SOLID
-    Using SOLID principles to provide better code design for easier maintenance and testing.
-
-
+ 
 ## Installation
 
 ```bash
