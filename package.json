@@ -98,5 +98,9 @@
     "coverageDirectory": "./coverage",
     "testEnvironment": "node",
     "collectCoverage": true
+  },
+  "engines": {
+    "node": "12.x"
   }
+
 }
